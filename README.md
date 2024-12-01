@@ -5,6 +5,7 @@
 
 <img src="images/Pace.png" width="50" height="50" align=left>
 
+
 # **PACE stages**
 
 Throughout these project notebooks, you'll see references to the problem-solving framework PACE. The following notebook components are labeled with the respective PACE stage: Plan, Analyze, Construct, and Execute.
@@ -12,6 +13,7 @@ Throughout these project notebooks, you'll see references to the problem-solving
 
 
 <img src="images/Plan.png" width="50" height="50" align=left>
+
 
 ## **PACE: Plan**
 
@@ -21,6 +23,7 @@ Consider the questions in your PACE Strategy Document and those below to craft y
 
 <img src="images/Analyze.png" width="50" height="50" align=left>
 
+
 ## **PACE: Analyze**
 
 Consider the questions in your PACE Strategy Document to reflect on the Analyze stage.
@@ -29,6 +32,7 @@ Consider the questions in your PACE Strategy Document to reflect on the Analyze 
 
 <img src="images/Construct.png" width="50" height="50" align=left>
 
+
 ## **PACE: Construct**
 
 **Note**: The Construct stage does not apply to this workflow. The PACE framework can be adapted to fit the specific requirements of any project.
@@ -36,6 +40,7 @@ Consider the questions in your PACE Strategy Document to reflect on the Analyze 
 
 
 <img src="images/Execute.png" width="50" height="50" align=left>
+
 
 ## **PACE: Execute**
 
