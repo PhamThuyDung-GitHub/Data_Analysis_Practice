@@ -17,6 +17,7 @@ Throughout these project notebooks, you'll see references to the problem-solving
 
 ## **PACE: Plan**
 
+
 Consider the questions in your PACE Strategy Document and those below to craft your response
 
 
@@ -25,6 +26,7 @@ Consider the questions in your PACE Strategy Document and those below to craft y
 
 
 ## **PACE: Analyze**
+
 
 Consider the questions in your PACE Strategy Document to reflect on the Analyze stage.
 
@@ -35,6 +37,7 @@ Consider the questions in your PACE Strategy Document to reflect on the Analyze 
 
 ## **PACE: Construct**
 
+
 **Note**: The Construct stage does not apply to this workflow. The PACE framework can be adapted to fit the specific requirements of any project.
 
 
@@ -43,6 +46,7 @@ Consider the questions in your PACE Strategy Document to reflect on the Analyze 
 
 
 ## **PACE: Execute**
+
 
 Consider the questions in your PACE Strategy Document and those below to craft your response:
 
