@@ -1,3 +1,39 @@
+
+# **Identify data types and compile summary information**
+
+<img src="images/Pace.png" width="100" height="100" align=left>
+
+# **PACE stages**
+
+Throughout these project notebooks, you'll see references to the problem-solving framework PACE. The following notebook components are labeled with the respective PACE stage: Plan, Analyze, Construct, and Execute.
+
+<img src="images/Plan.png" width="100" height="100" align=left>
+
+
+## **PACE: Plan**
+
+Consider the questions in your PACE Strategy Document and those below to craft your response:
+
+<img src="images/Analyze.png" width="100" height="100" align=left>
+
+## **PACE: Analyze**
+
+Consider the questions in your PACE Strategy Document to reflect on the Analyze stage.
+
+<img src="images/Construct.png" width="100" height="100" align=left>
+
+## **PACE: Construct**
+
+**Note**: The Construct stage does not apply to this workflow. The PACE framework can be adapted to fit the specific requirements of any project.
+
+
+<img src="images/Execute.png" width="100" height="100" align=left>
+
+## **PACE: Execute**
+
+Consider the questions in your PACE Strategy Document and those below to craft your response:
+
+
 # **Automatidata Project**
 
 You have just started as a data professional in a fictional data consulting firm, Automatidata. Their client, the New York City Taxi and Limousine Commission (New York City TLC), has hired the Automatidata team for its reputation in helping their clients develop data-based solutions.
